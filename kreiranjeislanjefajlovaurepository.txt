@@ -1,0 +1,24 @@
+
+Kreiraj fajl na desktopu ili disk
+i onda desni klik na fajl git bash here
+git init 
+kreiran repository
+onda 
+kopi i paste fajlove koje si programirao u taj folder
+onda ide
+git status
+pokaze te fajlove
+pa onda ide 
+git echo "novi readme.md" >> README.md
+onda 
+git add README.md
+pa ostale fajlove 
+recimo
+git add proba.html
+onda ide
+git commit -m "prva promjena"
+onda ide
+git remote add origin "http://github.com/darkoivanovic793@gmail.com/jscript.js
+onda ide
+git push -u origin master
+i to je to dodavanje fajlova na github u repository.
